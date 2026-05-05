@@ -194,22 +194,20 @@ Nmap done. 1 IP scanned. All ports actively developing.
 
 ---
 
-## 🐍 `$ watch contributions.exe`
+## 🐍 $ watch contributions.exe
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake"
-      src="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
-
-> ⚠️ To activate the snake, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your profile repo.
-
----
 
 ## 🌐 `$ ping ./socials`
 
