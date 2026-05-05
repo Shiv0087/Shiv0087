@@ -75,7 +75,6 @@ PORT       STATE   SERVICE        VERSION
 
 OS Detection  : Unknown — but the firewall is solid
 Uptime        : 365 days/year, no scheduled downtime
-Warning       : This host learns faster than it can be mapped.
 
 Nmap done. 1 IP scanned. All ports actively developing.
 ```
